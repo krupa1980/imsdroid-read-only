@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/485/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model
+END
+NgnHistoryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnHistoryList.java
+END
+NgnPhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/410/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnPhoneNumber.java
+END
+NgnHistoryEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/412/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnHistoryEvent.java
+END
+NgnHistoryMsrpEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/402/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnHistoryMsrpEvent.java
+END
+NgnHistoryAVCallEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnHistoryAVCallEvent.java
+END
+NgnHistorySMSEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnHistorySMSEvent.java
+END
+NgnEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/410/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnEmail.java
+END
+NgnContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/412/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnContact.java
+END
+NgnAccessPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnAccessPoint.java
+END
+NgnDeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/485/branches/2.0/android-ngn-stack/src/org/doubango/ngn/model/NgnDeviceInfo.java
+END

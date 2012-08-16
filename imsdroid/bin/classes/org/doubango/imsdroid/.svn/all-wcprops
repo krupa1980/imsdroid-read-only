@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/499/branches/2.0/imsdroid/src/org/doubango/imsdroid
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/446/branches/2.0/imsdroid/src/org/doubango/imsdroid/Main.java
+END
+Engine.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/499/branches/2.0/imsdroid/src/org/doubango/imsdroid/Engine.java
+END
+NativeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/NativeService.java
+END
+GlobalBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/GlobalBroadcastReceiver.java
+END
+CustomDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/CustomDialog.java
+END
+IMSDroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/IMSDroid.java
+END

@@ -1,0 +1,61 @@
+10
+
+dir
+501
+http://imsdroid.googlecode.com/svn/branches/2.0/imsdroid/res
+http://imsdroid.googlecode.com/svn
+
+
+
+2012-06-21T05:35:36.320941Z
+499
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+088c1f0a-aade-f869-c05e-f0c1bd8791d0
+
+values
+dir
+
+drawable-mdpi-finger
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+values-fr
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+values-it
+dir
+
+drawable-hdpi-finger
+dir
+
+layout
+dir
+

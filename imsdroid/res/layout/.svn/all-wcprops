@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/487/branches/2.0/imsdroid/res/layout
+END
+screen_filetrans_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/390/branches/2.0/imsdroid/res/layout/screen_filetrans_view.xml
+END
+screen_chat_queue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/395/branches/2.0/imsdroid/res/layout/screen_chat_queue.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/main.xml
+END
+screen_presence_status_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_presence_status_item.xml
+END
+screen_tab_dialer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/419/branches/2.0/imsdroid/res/layout/screen_tab_dialer.xml
+END
+screen_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/screen_home.xml
+END
+custom_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/485/branches/2.0/imsdroid/res/layout/custom_dialog.xml
+END
+screen_splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/487/branches/2.0/imsdroid/res/layout/screen_splash.xml
+END
+view_dialer_button_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/view_dialer_button_text.xml
+END
+screen_tab_history_item_av.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_tab_history_item_av.xml
+END
+screen_filetrans_queue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/390/branches/2.0/imsdroid/res/layout/screen_filetrans_queue.xml
+END
+screen_chat_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/392/branches/2.0/imsdroid/res/layout/screen_chat_item.xml
+END
+screen_tab_contacts_contact_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/377/branches/2.0/imsdroid/res/layout/screen_tab_contacts_contact_item.xml
+END
+screen_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_settings.xml
+END
+screen_qos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/487/branches/2.0/imsdroid/res/layout/screen_qos.xml
+END
+view_call_trying.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/419/branches/2.0/imsdroid/res/layout/view_call_trying.xml
+END
+screen_home_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/screen_home_item.xml
+END
+view_call_proxsensor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/view_call_proxsensor.xml
+END
+view_call_incall_audio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/483/branches/2.0/imsdroid/res/layout/view_call_incall_audio.xml
+END
+view_dialer_buttons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/view_dialer_buttons.xml
+END
+screen_about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/screen_about.xml
+END
+screen_av_queue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/394/branches/2.0/imsdroid/res/layout/screen_av_queue.xml
+END
+screen_tab_messages_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/388/branches/2.0/imsdroid/res/layout/screen_tab_messages_item.xml
+END
+screen_general.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/487/branches/2.0/imsdroid/res/layout/screen_general.xml
+END
+view_call_incall_video.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/483/branches/2.0/imsdroid/res/layout/view_call_incall_video.xml
+END
+view_list_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/view_list_header.xml
+END
+screen_settings_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_settings_item.xml
+END
+screen_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_contacts.xml
+END
+screen_chat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/388/branches/2.0/imsdroid/res/layout/screen_chat.xml
+END
+screen_tab_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_tab_info.xml
+END
+screen_tab_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/388/branches/2.0/imsdroid/res/layout/screen_tab_history.xml
+END
+view_dialer_button_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/369/branches/2.0/imsdroid/res/layout/view_dialer_button_image.xml
+END
+screen_av_queue_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/395/branches/2.0/imsdroid/res/layout/screen_av_queue_item.xml
+END
+screen_identity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_identity.xml
+END
+screen_network.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/487/branches/2.0/imsdroid/res/layout/screen_network.xml
+END
+action_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/action_item.xml
+END
+screen_tab_messages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/388/branches/2.0/imsdroid/res/layout/screen_tab_messages.xml
+END
+screen_codecs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_codecs.xml
+END
+screen_chat_queue_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/395/branches/2.0/imsdroid/res/layout/screen_chat_queue_item.xml
+END
+screen_tab_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_tab_contacts.xml
+END
+screen_presence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_presence.xml
+END
+screen_av.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_av.xml
+END
+screen_natt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/487/branches/2.0/imsdroid/res/layout/screen_natt.xml
+END
+screen_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/483/branches/2.0/imsdroid/res/layout/screen_security.xml
+END
+screen_filetrans_queue_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/390/branches/2.0/imsdroid/res/layout/screen_filetrans_queue_item.xml
+END
+screen_tab_online.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_tab_online.xml
+END
+quickaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/quickaction.xml
+END
+screen_messaging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_messaging.xml
+END
+screen_codecs_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/layout/screen_codecs_item.xml
+END

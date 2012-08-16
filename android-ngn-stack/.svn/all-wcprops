@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/371/branches/2.0/android-ngn-stack/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/371/branches/2.0/android-ngn-stack/proguard.cfg
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/388/branches/2.0/android-ngn-stack/Doxyfile
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/371/branches/2.0/android-ngn-stack/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/485/branches/2.0/android-ngn-stack/AndroidManifest.xml
+END
+installdox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/388/branches/2.0/android-ngn-stack/installdox.sh
+END
+android-ngn-stack.tag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/388/branches/2.0/android-ngn-stack/android-ngn-stack.tag
+END

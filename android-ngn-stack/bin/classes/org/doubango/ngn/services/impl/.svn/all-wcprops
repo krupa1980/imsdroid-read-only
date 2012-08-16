@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl
+END
+NgnSipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnSipService.java
+END
+NgnContactService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/481/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnContactService.java
+END
+NgnHttpClientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/467/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnHttpClientService.java
+END
+NgnHistoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnHistoryService.java
+END
+NgnStorageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnStorageService.java
+END
+NgnConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnConfigurationService.java
+END
+NgnSoundService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/467/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnSoundService.java
+END
+NgnNetworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnNetworkService.java
+END
+NgnBaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/services/impl/NgnBaseService.java
+END

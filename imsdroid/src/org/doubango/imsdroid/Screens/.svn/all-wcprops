@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/499/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens
+END
+ScreenCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/499/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenCodecs.java
+END
+ScreenSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenSettings.java
+END
+ScreenQoS.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/487/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenQoS.java
+END
+ScreenPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenPresence.java
+END
+ScreenTabContacts.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenTabContacts.java
+END
+ScreenNatt.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/487/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenNatt.java
+END
+ScreenAV.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/496/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenAV.java
+END
+ScreenSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/483/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenSecurity.java
+END
+ScreenAbout.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenAbout.java
+END
+BaseScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/419/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/BaseScreen.java
+END
+ScreenAVQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenAVQueue.java
+END
+ScreenTabOnline.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenTabOnline.java
+END
+ScreenMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenMessaging.java
+END
+ScreenGeneral.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/487/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenGeneral.java
+END
+ScreenContacts.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenContacts.java
+END
+ScreenFileTransferView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenFileTransferView.java
+END
+ScreenChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenChat.java
+END
+ScreenTabInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenTabInfo.java
+END
+IBaseScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/IBaseScreen.java
+END
+ScreenChatQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenChatQueue.java
+END
+ScreenTabDialer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/419/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenTabDialer.java
+END
+ScreenHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/431/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenHome.java
+END
+ScreenTabHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenTabHistory.java
+END
+ScreenFileTransferQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenFileTransferQueue.java
+END
+ScreenInterceptCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenInterceptCall.java
+END
+ScreenNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/485/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenNetwork.java
+END
+ScreenIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenIdentity.java
+END
+ScreenSplash.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenSplash.java
+END
+ScreenTabMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/401/branches/2.0/imsdroid/src/org/doubango/imsdroid/Screens/ScreenTabMessages.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/libs/armeabi
+END
+libtinyWRAP_armv5te.so
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/libs/armeabi/libtinyWRAP_armv5te.so
+END
+libutils_armv5te.so
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/libs/armeabi/libutils_armv5te.so
+END
+libtinyWRAP_armv7-a.so
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/libs/armeabi/libtinyWRAP_armv7-a.so
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media
+END
+NgnCameraProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/485/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnCameraProducer.java
+END
+NgnProxyVideoProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnProxyVideoProducer.java
+END
+NgnProxyAudioConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnProxyAudioConsumer.java
+END
+NgnProxyPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/481/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnProxyPlugin.java
+END
+NgnMediaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnMediaType.java
+END
+NgnProxyVideoConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnProxyVideoConsumer.java
+END
+NgnProxyPluginMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/483/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnProxyPluginMgr.java
+END
+NgnProxyAudioProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/ngn/media/NgnProxyAudioProducer.java
+END

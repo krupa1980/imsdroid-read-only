@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/386/branches/2.0/myFirstApp
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/385/branches/2.0/myFirstApp/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/385/branches/2.0/myFirstApp/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/385/branches/2.0/myFirstApp/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/385/branches/2.0/myFirstApp/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/385/branches/2.0/myFirstApp/AndroidManifest.xml
+END

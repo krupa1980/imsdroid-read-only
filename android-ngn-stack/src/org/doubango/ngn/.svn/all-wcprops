@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/ngn
+END
+NgnApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/ngn/NgnApplication.java
+END
+NgnEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/ngn/NgnEngine.java
+END
+NgnNativeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/NgnNativeService.java
+END

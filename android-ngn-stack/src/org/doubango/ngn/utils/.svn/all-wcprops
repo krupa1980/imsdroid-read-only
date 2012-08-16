@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils
+END
+NgnContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/485/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnContentType.java
+END
+NgnListUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnListUtils.java
+END
+NgnDateTimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnDateTimeUtils.java
+END
+NgnUriUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/402/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnUriUtils.java
+END
+NgnObservableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/412/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnObservableList.java
+END
+NgnPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnPredicate.java
+END
+NgnTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnTimer.java
+END
+NgnGraphicsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnGraphicsUtils.java
+END
+NgnDataBaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/413/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnDataBaseHelper.java
+END
+NgnObservableHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnObservableHashMap.java
+END
+NgnStringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnStringUtils.java
+END
+NgnCallbackFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnCallbackFunc.java
+END
+NgnConfigurationEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnConfigurationEntry.java
+END
+NgnObservableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/utils/NgnObservableObject.java
+END

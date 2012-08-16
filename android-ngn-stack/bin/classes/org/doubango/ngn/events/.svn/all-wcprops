@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events
+END
+NgnMessagingEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/429/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnMessagingEventArgs.java
+END
+NgnStackEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnStackEventTypes.java
+END
+NgnEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnEventArgs.java
+END
+NgnMsrpEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnMsrpEventArgs.java
+END
+NgnPublicationEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnPublicationEventTypes.java
+END
+NgnRegistrationEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnRegistrationEventTypes.java
+END
+NgnSubscriptionEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnSubscriptionEventArgs.java
+END
+NgnMessagingEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnMessagingEventTypes.java
+END
+NgnMsrpEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnMsrpEventTypes.java
+END
+NgnSubscriptionEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnSubscriptionEventTypes.java
+END
+NgnInviteEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/406/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnInviteEventArgs.java
+END
+NgnMediaPluginEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/429/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnMediaPluginEventArgs.java
+END
+NgnStackEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnStackEventArgs.java
+END
+NgnMediaPluginEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/429/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnMediaPluginEventTypes.java
+END
+NgnStringEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnStringEventArgs.java
+END
+NgnInviteEventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/487/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnInviteEventTypes.java
+END
+NgnPublicationEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnPublicationEventArgs.java
+END
+NgnRegistrationEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/401/branches/2.0/android-ngn-stack/src/org/doubango/ngn/events/NgnRegistrationEventArgs.java
+END

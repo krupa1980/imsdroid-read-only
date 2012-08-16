@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/utils
+END
+utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/utils/utils.java
+END
+utilsJNI.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/utils/utilsJNI.java
+END
+AndroidUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/utils/AndroidUtils.java
+END
+CpuFeatures_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/utils/CpuFeatures_t.java
+END
+CpuFamily_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/499/branches/2.0/android-ngn-stack/src/org/doubango/utils/CpuFamily_t.java
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 44
+bin
+gen
+.settings
+html
+latex
+*.tmp
+wiki
+xml
+
+END

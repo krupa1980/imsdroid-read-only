@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/389/branches/2.0/testCall
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/389/branches/2.0/testCall/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/389/branches/2.0/testCall/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/389/branches/2.0/testCall/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/389/branches/2.0/testCall/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/389/branches/2.0/testCall/AndroidManifest.xml
+END

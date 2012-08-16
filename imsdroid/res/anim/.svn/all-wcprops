@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim
+END
+shrink_from_bottomleft_to_topright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/shrink_from_bottomleft_to_topright.xml
+END
+shrink_from_topleft_to_bottomright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/shrink_from_topleft_to_bottomright.xml
+END
+grow_from_bottomright_to_topleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/grow_from_bottomright_to_topleft.xml
+END
+grow_from_topright_to_bottomleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/grow_from_topright_to_bottomleft.xml
+END
+grow_from_topleft_to_bottomright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/grow_from_topleft_to_bottomright.xml
+END
+grow_from_bottomleft_to_topright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/grow_from_bottomleft_to_topright.xml
+END
+shrink_from_topright_to_bottomleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/shrink_from_topright_to_bottomleft.xml
+END
+shrink_from_bottomright_to_topleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/shrink_from_bottomright_to_topleft.xml
+END
+shrink_from_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/shrink_from_top.xml
+END
+grow_from_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/grow_from_top.xml
+END
+grow_from_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/grow_from_bottom.xml
+END
+shrink_from_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/shrink_from_bottom.xml
+END
+rail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/368/branches/2.0/imsdroid/res/anim/rail.xml
+END

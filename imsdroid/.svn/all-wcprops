@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/499/branches/2.0/imsdroid
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/401/branches/2.0/imsdroid/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/436/branches/2.0/imsdroid/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/368/branches/2.0/imsdroid/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/436/branches/2.0/imsdroid/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/499/branches/2.0/imsdroid/AndroidManifest.xml
+END
